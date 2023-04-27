@@ -7,3 +7,8 @@
    background-blend-mode: soft-light;
    margin-top: 5em;
 }
+
+.nav-item:hover {
+   background-color: slategrey;
+   border-radius: 20px;
+}
