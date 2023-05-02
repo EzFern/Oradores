@@ -12,3 +12,8 @@
    background-color: slategrey;
    border-radius: 20px;
 }
+
+.btn-primary {
+   background-color: transparent;
+   border: 2px solid white;
+}
