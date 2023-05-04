@@ -17,3 +17,13 @@
    background-color: transparent;
    border: 2px solid white;
 }
+
+.img-fluid {
+   max-width: 100%;
+   height: -webkit-fill-available;
+}
+
+#footer {
+   margin-top: 2%;
+   padding: 1%;
+}
